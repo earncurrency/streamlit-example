@@ -1,4 +1,4 @@
-#from st_aggrid import AgGrid
+from st_aggrid import AgGrid
 import pandas as pd
 import streamlit as st
 
