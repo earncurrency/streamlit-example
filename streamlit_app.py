@@ -1,6 +1,6 @@
-from st_aggrid import AgGrid
-import pandas as pd
 import streamlit as st
+import pandas as pd
+from st_aggrid import AgGrid
 
 st.write("""
 # Test
